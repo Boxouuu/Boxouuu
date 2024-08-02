@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning Python for Data Analyse, Machine Learning.
+I'm currently learning Python for Data Analyse / Machine Learning and PHP Symfony.
 
 
 ## 🌐 Socials:
